@@ -1,1 +1,0 @@
-# Project1-Data-calculator-simulation-class-
